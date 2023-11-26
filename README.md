@@ -1,6 +1,6 @@
  👋 Hi, I’m @sassssyy04
- 👀 I’m interested in web design and development
- I’m currently learning UI/UX design, full stack development
+ 👀 I'm a data and AI/ML engineer by profession and a seeker by choice.
+ Check out my repositories to get an idea on some of the projects I have worked on, have been working if you're interested. 
 
 
 <!---
